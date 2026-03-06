@@ -2,11 +2,11 @@
 <!-- HEADER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d2ff&height=220&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- Profile views counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Sandhu93&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sandhu93&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=8%2B+years+building+Embedded+%2B+AI+%2B+Full-Stack+systems;ESP32+%7C+Raspberry+Pi+%7C+TinyML+%7C+Computer+Vision;From+sensor+data+to+real-time+3D+visualization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=8%2B+years+building+Embedded+%2B+AI+%2B+Full-Stack+systems;ESP32+%7C+Raspberry+Pi+%7C+TinyML+%7C+Computer+Vision;From+sensor+data+to+real-time+3D+visualization" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,11 +31,15 @@ My work spans from **ESP32-based edge AI** and **real-time sensor visualization*
 
 I don't just write code — I build products that **ship on real hardware** and **solve real problems**.
 
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
 - 🔭 Currently building **Edge AI systems** and **IoT automation solutions**
 - 🧠 Exploring **TinyML**, **LLM agents**, and **hardware-AI integration**
 - ⚡ I enjoy the full pipeline: **sensor → firmware → backend → visualization**
 - 🌍 Open to collaboration on **embedded AI**, **CV**, and **IoT** projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sandeep-b-kadam/) or open an issue on any repo
+- 📫 Reach me on [LinkedIn](#) or open an issue on any repo
+
+<br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -113,16 +117,17 @@ I don't just write code — I build products that **ship on real hardware** and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandhu93&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" />
+  <picture>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  </picture>
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&area_color=00d2ff" />
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
-  </picture>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -131,30 +136,87 @@ I don't just write code — I build products that **ship on real hardware** and 
 
 ## 🚀 Featured Projects
 
-### 🧠 [Drowsiness Detection — ESP32-S3](https://github.com/Sandhu93/drowsiness-tinyML-esp32s3)
-> **Edge AI drowsiness detection** running TensorFlow Lite inference directly on **ESP32-S3**. On-device ML with real-time performance.
->
-> `TinyML` `ESP32-S3` `TFLite` `Edge AI`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📡 [MPU6050 Real-Time Visualizer](https://github.com/Sandhu93/mpu6050-visualizer)
-> **Real-time 3D IMU visualization** — ESP32 streams MPU6050 sensor data to a Python desktop app with OpenGL rendering and live plots.
->
-> `ESP32` `IMU` `PyQtGraph` `OpenGL`
+### 🧠 Drowsiness Detection — ESP32-S3
+<a href="https://github.com/Sandhu93/drowsiness-tinyML-esp32s3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=drowsiness-tinyML-esp32s3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-### 👁️ [Face Attendance System](https://github.com/Sandhu93/Face-Attendance-System)
-> **CV-powered attendance** system with face recognition, camera diagnostics, and **Raspberry Pi** deployment support.
->
-> `OpenCV` `Raspberry Pi` `Face Recognition`
+**Edge AI drowsiness detection** running TensorFlow Lite inference directly on **ESP32-S3**. On-device ML with real-time performance.
 
-### 💬 [NL2SQL](https://github.com/Sandhu93/NL2SQL)
-> **Natural language to SQL** — ask questions in English, get database queries. Built with **LangChain + OpenAI + MySQL**.
->
-> `LangChain` `OpenAI` `MySQL` `LLM`
+`TinyML` `ESP32-S3` `TFLite` `Edge AI`
 
-### 📺 [Ad Display — Pi + Next.js](https://github.com/Sandhu93/ad_display_pi_next)
-> **Digital signage system** running on Raspberry Pi with a **Next.js** frontend for content management and display.
->
-> `Next.js` `Raspberry Pi` `Digital Signage`
+</td>
+<td width="50%" valign="top">
+
+### 📡 MPU6050 Real-Time Visualizer
+<a href="https://github.com/Sandhu93/mpu6050-visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=mpu6050-visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+**Real-time 3D IMU visualization** — ESP32 streams MPU6050 sensor data to a Python desktop app with OpenGL rendering and live plots.
+
+`ESP32` `IMU` `PyQtGraph` `OpenGL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Face Attendance System
+<a href="https://github.com/Sandhu93/Face-Attendance-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=Face-Attendance-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+**CV-powered attendance** system with face recognition, camera diagnostics, and **Raspberry Pi** deployment support.
+
+`OpenCV` `Raspberry Pi` `Face Recognition`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 NL2SQL
+<a href="https://github.com/Sandhu93/NL2SQL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=NL2SQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+**Natural language to SQL** — ask questions in English, get database queries. Built with **LangChain + OpenAI + MySQL**.
+
+`LangChain` `OpenAI` `MySQL` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📺 Ad Display — Pi + Next.js
+<a href="https://github.com/Sandhu93/ad_display_pi_next">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=ad_display_pi_next&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+**Digital signage system** running on Raspberry Pi with a **Next.js** frontend for content management and display.
+
+`Next.js` `Raspberry Pi` `Digital Signage`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 More Coming Soon...
+
+Currently working on new projects in:
+
+- **Edge AI + Sensor Fusion**
+- **LLM-powered IoT control**
+- **Real-time anomaly detection**
+
+⭐ Star my repos to stay updated!
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- WHAT I DO — VISUAL BREAKDOWN -->
@@ -172,14 +234,14 @@ graph LR
     F --> G[🎯 Edge Deployment]
     D --> H[🌐 Web Dashboard]
 
-    style A fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style B fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style C fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style D fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style E fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style F fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style G fill:#161b22,stroke:#00d2ff,color:#c9d1d9
-    style H fill:#161b22,stroke:#00d2ff,color:#c9d1d9
+    style A fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style B fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style C fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style D fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style E fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style F fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style G fill:#161b22,stroke:#58a6ff,color:#c9d1d9
+    style H fill:#161b22,stroke:#58a6ff,color:#c9d1d9
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -189,7 +251,7 @@ graph LR
 ## 🎯 Current Focus
 
 <p>
-  <img src="https://img.shields.io/badge/🧠_Edge_AI_Systems-Building-00d2ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠_Edge_AI_Systems-Building-58a6ff?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/📡_IoT_Automation-Active-3fb950?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/👁️_Computer_Vision-Exploring-d29922?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/🤖_LLM_+_Hardware-Research-bc8cff?style=flat-square&labelColor=0d1117" />
@@ -211,12 +273,12 @@ graph LR
     <img src="https://img.shields.io/badge/GitHub-Sandhu93-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sandeep-b-kadam/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="http://www.sandeepbkadam.com">
-    <img src="https://img.shields.io/badge/Website-sandeepbkadam.com-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -236,4 +298,4 @@ graph LR
 </picture>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d2ff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
