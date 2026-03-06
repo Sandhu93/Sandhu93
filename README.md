@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="1326" height="775" alt="image" src="https://github.com/user-attachments/assets/43582966-4b76-47c2-8b4c-83ee53b360d8" /><!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- HEADER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -113,14 +113,8 @@ I don't just write code — I build products that **ship on real hardware** and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" />
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Sandhu93&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandhu93&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" />
 </p>
 
 <!-- Contribution Graph -->
