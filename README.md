@@ -31,15 +31,11 @@ My work spans from **ESP32-based edge AI** and **real-time sensor visualization*
 
 I don't just write code — I build products that **ship on real hardware** and **solve real problems**.
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=6" />
-
 - 🔭 Currently building **Edge AI systems** and **IoT automation solutions**
 - 🧠 Exploring **TinyML**, **LLM agents**, and **hardware-AI integration**
 - ⚡ I enjoy the full pipeline: **sensor → firmware → backend → visualization**
 - 🌍 Open to collaboration on **embedded AI**, **CV**, and **IoT** projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sandeep-b-kadam/) or open an issue on any repo
-
-<br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -117,13 +113,22 @@ I don't just write code — I build products that **ship on real hardware** and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Sandhu93&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&area_color=00d2ff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&area_color=00d2ff" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+  </picture>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -132,29 +137,30 @@ I don't just write code — I build products that **ship on real hardware** and 
 
 ## 🚀 Featured Projects
 
-<p>
-<a href="https://github.com/Sandhu93/drowsiness-tinyML-esp32s3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=drowsiness-tinyML-esp32s3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Sandhu93/mpu6050-visualizer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=mpu6050-visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" />
-</a>
-</p>
+### 🧠 [Drowsiness Detection — ESP32-S3](https://github.com/Sandhu93/drowsiness-tinyML-esp32s3)
+> **Edge AI drowsiness detection** running TensorFlow Lite inference directly on **ESP32-S3**. On-device ML with real-time performance.
+>
+> `TinyML` `ESP32-S3` `TFLite` `Edge AI`
 
-<p>
-<a href="https://github.com/Sandhu93/Face-Attendance-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=Face-Attendance-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Sandhu93/NL2SQL">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=NL2SQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" />
-</a>
-</p>
+### 📡 [MPU6050 Real-Time Visualizer](https://github.com/Sandhu93/mpu6050-visualizer)
+> **Real-time 3D IMU visualization** — ESP32 streams MPU6050 sensor data to a Python desktop app with OpenGL rendering and live plots.
+>
+> `ESP32` `IMU` `PyQtGraph` `OpenGL`
 
-<p>
-<a href="https://github.com/Sandhu93/ad_display_pi_next">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=ad_display_pi_next&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" />
-</a>
-</p>
+### 👁️ [Face Attendance System](https://github.com/Sandhu93/Face-Attendance-System)
+> **CV-powered attendance** system with face recognition, camera diagnostics, and **Raspberry Pi** deployment support.
+>
+> `OpenCV` `Raspberry Pi` `Face Recognition`
+
+### 💬 [NL2SQL](https://github.com/Sandhu93/NL2SQL)
+> **Natural language to SQL** — ask questions in English, get database queries. Built with **LangChain + OpenAI + MySQL**.
+>
+> `LangChain` `OpenAI` `MySQL` `LLM`
+
+### 📺 [Ad Display — Pi + Next.js](https://github.com/Sandhu93/ad_display_pi_next)
+> **Digital signage system** running on Raspberry Pi with a **Next.js** frontend for content management and display.
+>
+> `Next.js` `Raspberry Pi` `Digital Signage`
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- WHAT I DO — VISUAL BREAKDOWN -->
