@@ -1,10 +1,8 @@
-<!-- Hero -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=17&descAlignY=58" />
+<!-- HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=190&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=17&descAlignY=58" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+practical+systems+across+firmware%2C+AI%2C+and+real-time+visualization" alt="Typing SVG" />
-  </a>
+  <b>Building practical systems across firmware, AI, and real-time visualization.</b>
 </p>
 
 <p align="right">
@@ -15,7 +13,7 @@
 
 I’m an engineer based in India with 8+ years of experience building products across embedded systems, IoT, edge AI, computer vision, and full-stack development.
 
-My work usually sits at the boundary between hardware and software — from sensor integration and firmware to inference pipelines, backend services, and real-time visualization. I enjoy building systems that run on actual devices, not just prototypes that look good in demos.
+My work sits at the boundary between hardware and software — from sensor integration and firmware to inference pipelines, backend services, and real-time visualization.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20Systems-0d1117?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -100,52 +98,60 @@ My work usually sits at the boundary between hardware and software — from sens
 <tr>
 <td width="50%" valign="top">
 
-### Drowsiness Detection on ESP32-S3
-<a href="https://github.com/Sandhu93/drowsiness-tinyML-esp32s3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=drowsiness-tinyML-esp32s3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Sandhu93/drowsiness-tinyML-esp32s3"><b>Drowsiness Detection on ESP32-S3</b></a>
 
-On-device drowsiness detection using TensorFlow Lite on ESP32-S3, built for edge inference under constrained hardware conditions.
+On-device drowsiness detection using TensorFlow Lite on ESP32-S3 for edge inference under constrained hardware conditions.
 
-`TinyML` `ESP32-S3` `TensorFlow Lite` `Edge AI`
+<p>
+  <img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20AI-0d1117?style=flat-square" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### MPU6050 Real-Time Visualizer
-<a href="https://github.com/Sandhu93/mpu6050-visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=mpu6050-visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Sandhu93/mpu6050-visualizer"><b>MPU6050 Real-Time Visualizer</b></a>
 
 ESP32-based MPU6050 streaming pipeline with desktop-side 3D visualization, live plots, and OpenGL rendering.
 
-`ESP32` `IMU` `Python` `OpenGL`
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IMU-444444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### Face Attendance System
-<a href="https://github.com/Sandhu93/Face-Attendance-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=Face-Attendance-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Sandhu93/Face-Attendance-System"><b>Face Attendance System</b></a>
 
 A face-recognition attendance system with deployment support for Raspberry Pi environments.
 
-`OpenCV` `Raspberry Pi` `Face Recognition`
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Face%20Recognition-0d1117?style=flat-square" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### NL2SQL
-<a href="https://github.com/Sandhu93/NL2SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=NL2SQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/Sandhu93/NL2SQL"><b>NL2SQL</b></a>
 
 A natural-language interface that converts user questions into SQL queries using LLM tooling and structured backend integration.
 
-`LangChain` `OpenAI` `MySQL` `LLM`
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-0d1117?style=flat-square" />
+</p>
 
 </td>
 </tr>
@@ -154,6 +160,13 @@ A natural-language interface that converts user questions into SQL queries using
 ---
 
 ## Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Edge%20AI-58a6ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/IoT%20Automation-3fb950?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-d29922?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hardware%20%2B%20LLMs-bc8cff?style=flat-square&labelColor=0d1117" />
+</p>
 
 - Edge AI on microcontrollers
 - Sensor-driven systems and device communication
@@ -165,8 +178,8 @@ A natural-language interface that converts user questions into SQL queries using
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" />
 </p>
 
 ---
@@ -178,11 +191,11 @@ A natural-language interface that converts user questions into SQL queries using
     <img src="https://img.shields.io/badge/GitHub-Sandhu93-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sandeep-b-kadam">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sandeep@techembers.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
