@@ -1,51 +1,33 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER WAVE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=17&descAlignY=58" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sandeep%20B%20Kadam&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Edge%20AI%20%7C%20IoT%20%7C%20Computer%20Vision&descSize=18&descAlignY=55&animation=fadeIn" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+practical+systems+across+firmware%2C+AI%2C+and+real-time+visualization" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Profile views counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Sandhu93&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED TYPING -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About
+
+I’m an engineer based in India with 8+ years of experience building products across embedded systems, IoT, edge AI, computer vision, and full-stack development.
+
+My work usually sits at the boundary between hardware and software — from sensor integration and firmware to inference pipelines, backend services, and real-time visualization. I enjoy building systems that run on actual devices, not just prototypes that look good in demos.
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=8%2B+years+building+Embedded+%2B+AI+%2B+Full-Stack+systems;ESP32+%7C+Raspberry+Pi+%7C+TinyML+%7C+Computer+Vision;From+sensor+data+to+real-time+3D+visualization" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0d1117?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20AI-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/IoT%20Pipelines-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Real--Time%20Visualization-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## 🧑‍💻 About Me
-
-I'm an engineer based in India with **8+ years of experience** building systems that connect **hardware, software, and AI**.
-
-My work spans from **ESP32-based edge AI** and **real-time sensor visualization** to **computer vision pipelines**, **Raspberry Pi deployments**, **LLM-powered apps**, and **full-stack dashboards**.
-
-I don't just write code — I build products that **ship on real hardware** and **solve real problems**.
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
-- 🔭 Currently building **Edge AI systems** and **IoT automation solutions**
-- 🧠 Exploring **TinyML**, **LLM agents**, and **hardware-AI integration**
-- ⚡ I enjoy the full pipeline: **sensor → firmware → backend → visualization**
-- 🌍 Open to collaboration on **embedded AI**, **CV**, and **IoT** projects
-- 📫 Reach me on [LinkedIn](#) or open an issue on any repo
-
-<br clear="right"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -68,13 +50,13 @@ I don't just write code — I build products that **ship on real hardware** and 
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/I2C%20/%20SPI%20/%20UART-444444?style=for-the-badge&logo=searxng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors%20(IMU%20/%20CV)-555555?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensor%20Integration-555555?style=for-the-badge" />
 </p>
 </details>
 
 <details open>
-<summary><b>AI / ML / Computer Vision</b></summary>
+<summary><b>AI / ML / Vision</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -86,19 +68,19 @@ I don't just write code — I build products that **ship on real hardware** and 
 </details>
 
 <details open>
-<summary><b>Web & App Development</b></summary>
+<summary><b>Web / Backend</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
 </p>
 </details>
 
 <details open>
-<summary><b>Tools & Platforms</b></summary>
+<summary><b>Tools</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -110,192 +92,99 @@ I don't just write code — I build products that **ship on real hardware** and 
 </p>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS (LIVE) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhu93&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  </picture>
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhu93&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Drowsiness Detection — ESP32-S3
+### Drowsiness Detection on ESP32-S3
 <a href="https://github.com/Sandhu93/drowsiness-tinyML-esp32s3">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=drowsiness-tinyML-esp32s3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-**Edge AI drowsiness detection** running TensorFlow Lite inference directly on **ESP32-S3**. On-device ML with real-time performance.
+On-device drowsiness detection using TensorFlow Lite on ESP32-S3, built for edge inference under constrained hardware conditions.
 
-`TinyML` `ESP32-S3` `TFLite` `Edge AI`
+`TinyML` `ESP32-S3` `TensorFlow Lite` `Edge AI`
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 MPU6050 Real-Time Visualizer
+### MPU6050 Real-Time Visualizer
 <a href="https://github.com/Sandhu93/mpu6050-visualizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=mpu6050-visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-**Real-time 3D IMU visualization** — ESP32 streams MPU6050 sensor data to a Python desktop app with OpenGL rendering and live plots.
+ESP32-based MPU6050 streaming pipeline with desktop-side 3D visualization, live plots, and OpenGL rendering.
 
-`ESP32` `IMU` `PyQtGraph` `OpenGL`
+`ESP32` `IMU` `Python` `OpenGL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Face Attendance System
+### Face Attendance System
 <a href="https://github.com/Sandhu93/Face-Attendance-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=Face-Attendance-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-**CV-powered attendance** system with face recognition, camera diagnostics, and **Raspberry Pi** deployment support.
+A face-recognition attendance system with deployment support for Raspberry Pi environments.
 
 `OpenCV` `Raspberry Pi` `Face Recognition`
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 NL2SQL
+### NL2SQL
 <a href="https://github.com/Sandhu93/NL2SQL">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=NL2SQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-**Natural language to SQL** — ask questions in English, get database queries. Built with **LangChain + OpenAI + MySQL**.
+A natural-language interface that converts user questions into SQL queries using LLM tooling and structured backend integration.
 
 `LangChain` `OpenAI` `MySQL` `LLM`
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📺 Ad Display — Pi + Next.js
-<a href="https://github.com/Sandhu93/ad_display_pi_next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandhu93&repo=ad_display_pi_next&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-**Digital signage system** running on Raspberry Pi with a **Next.js** frontend for content management and display.
-
-`Next.js` `Raspberry Pi` `Digital Signage`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 More Coming Soon...
-
-Currently working on new projects in:
-
-- **Edge AI + Sensor Fusion**
-- **LLM-powered IoT control**
-- **Real-time anomaly detection**
-
-⭐ Star my repos to stay updated!
-
-</td>
-</tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WHAT I DO — VISUAL BREAKDOWN -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## ⚙️ What I Do
+## Current Focus
 
-```mermaid
-graph LR
-    A[🔌 Sensors & Hardware] --> B[📟 ESP32 / Raspberry Pi]
-    B --> C[📡 Serial / Wi-Fi / BLE]
-    C --> D[🖥️ Python Backend]
-    D --> E[📊 Real-Time Visualization]
-    D --> F[🧠 AI / ML Inference]
-    F --> G[🎯 Edge Deployment]
-    D --> H[🌐 Web Dashboard]
+- Edge AI on microcontrollers
+- Sensor-driven systems and device communication
+- Computer vision for practical automation
+- Full-stack interfaces for hardware-backed products
 
-    style A fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style B fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style C fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style D fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style E fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style F fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style G fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style H fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-```
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENT FOCUS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## GitHub Stats
 
-## 🎯 Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/🧠_Edge_AI_Systems-Building-58a6ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📡_IoT_Automation-Active-3fb950?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-Exploring-d29922?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🤖_LLM_+_Hardware-Research-bc8cff?style=flat-square&labelColor=0d1117" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandhu93&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhu93&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
-- Building **embedded AI systems** that run inference on microcontrollers
-- Integrating **sensors → firmware → cloud/dashboard** end-to-end
-- Exploring **LLM agents** that can interact with physical hardware and real-world data
-- Developing **computer vision** solutions for industrial and automation use cases
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/Sandhu93">
     <img src="https://img.shields.io/badge/GitHub-Sandhu93-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/sandeep-b-kadam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sandeep@techembers.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <i>💡 I enjoy building products at the intersection of <b>Embedded Systems + AI + Visualization + Full-Stack</b>.</i><br>
-  <i>If you're working on <b>IoT</b>, <b>edge AI</b>, <b>computer vision</b>, or <b>hardware-software integrated systems</b> — let's talk.</i>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhu93/Sandhu93/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhu93/Sandhu93/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sandhu93/Sandhu93/output/github-snake-dark.svg" />
-</picture>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" />
