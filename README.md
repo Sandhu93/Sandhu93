@@ -191,11 +191,11 @@ A natural-language interface that converts user questions into SQL queries using
     <img src="https://img.shields.io/badge/GitHub-Sandhu93-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/sandeep-b-kadam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sandeep@techembers.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
